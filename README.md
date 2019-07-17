@@ -4,4 +4,4 @@
 
 ### Preview Image
 
-![google](https://user-images.githubusercontent.com/28485791/61372150-aa770b80-a896-11e9-99c3-91ad5db0ef68.jpg)
+![google](https://user-images.githubusercontent.com/28485791/61372359-2ec98e80-a897-11e9-9441-824ac8e08bb2.jpg)
