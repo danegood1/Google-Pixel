@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 0 auto;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  width: 100%;
+  overflow: auto;
+  text-align: center;
+  background-color: #3a3a3a;
+}
+
+.navbar a {
+  float: left;
+  padding: 8px;
+  color: #fff;
+  text-decoration: none;
+  width: 18%;
+  font-size: 14px;
+}
+
+.navbar a:hover {
+  color: #c7c7c7;
+}
+
+.navbar li {
+  display: inline;
+}
+
+.search {
+  float: right;
+  padding-right: 25px;
+  padding-top: 5px;
+}
+
+input[type="text"] {
+  color: #fff;
+  padding-top: 8px;
+  background-color: #3a3a3a;
+  border: none;
+  padding: none;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+.button {
+  background-color: #3a3a3a;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  outline: none;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  color: #fff;
+  background-color: #3a3a3a;
+  padding: 8px;
+  font-size: 14px;
+}
+
+.container {
+  height: 100vh;
+  width: 50%;
+  padding-top: 50px;
+  text-align: justify;
+  padding-left: 290px;
+  padding-bottom: 25px;
+}

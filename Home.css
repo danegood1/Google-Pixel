@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 0 auto;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  width: 100%;
+  overflow: auto;
+  text-align: center;
+  background-color: #3a3a3a;
+}
+
+.navbar a {
+  float: left;
+  padding: 8px;
+  color: #fff;
+  text-decoration: none;
+  width: 18%;
+  font-size: 14px;
+}
+
+.navbar a:hover {
+  color: #c7c7c7;
+}
+
+.navbar li {
+  display: inline;
+}
+
+.search {
+  float: right;
+  padding-right: 25px;
+  padding-top: 5px;
+}
+
+input[type="text"] {
+  color: #fff;
+  padding-top: 8px;
+  background-color: #3a3a3a;
+  border: none;
+  padding: none;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+.button {
+  background-color: #3a3a3a;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  outline: none;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  color: #fff;
+  background-color: #3a3a3a;
+  padding: 8px;
+  font-size: 14px;
+}
+
+.headings {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.parent-link {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.image {
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 35px;
+}
+
+.link1 a {
+  text-decoration: none;
+  color: blue;
+}
+
+.link2 a {
+  text-decoration: none;
+  color: blue;
+}
+
+img {
+  padding-bottom: 5px;
+  padding-top: 10px;
+  transition: 0.5s;
+}
+
+img:hover {
+  transform: scale(1.07);
+}
